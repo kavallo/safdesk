@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D6C5246B-41FC-41E8-B438-AF591FC526A7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sistema</RootNamespace>
+    <AssemblyName>Sistema</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bitacora\DATOS\DBITACORA.cs" />
+    <Compile Include="Bitacora\DATOS\DdetalleBitacora.cs" />
+    <Compile Include="Bitacora\NEGOCIO\NBITACORA.cs" />
+    <Compile Include="Bitacora\NEGOCIO\NDetalleBitacora.cs" />
+    <Compile Include="Bitacora\PRESENTACION\Frmbitacora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bitacora\PRESENTACION\Frmbitacora.Designer.cs">
+      <DependentUpon>Frmbitacora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CARGO\DATOS\DCARGO.cs" />
+    <Compile Include="CARGO\NEGOCIO\NCARGO.cs" />
+    <Compile Include="CARGO\PRESENTACION\FCARGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CARGO\PRESENTACION\FCARGO.Designer.cs">
+      <DependentUpon>FCARGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CATEGORIA\DATOS\DCATEGORIA.cs" />
+    <Compile Include="CATEGORIA\NEGOCIO\NCATEGORIA.cs" />
+    <Compile Include="CATEGORIA\PRESENTACION\FCATEGORIA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CATEGORIA\PRESENTACION\FCATEGORIA.Designer.cs">
+      <DependentUpon>FCATEGORIA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conexion.cs" />
+    <Compile Include="ConexionMaster.cs" />
+    <Compile Include="Configuracion\Datos\ConfiguracionBackcolor.cs" />
+    <Compile Include="Configuracion\Datos\ConfiguracionForecolor.cs" />
+    <Compile Include="Configuracion\Datos\ConfiguracionFuente.cs" />
+    <Compile Include="Configuracion\Negocio\GestorBackcolor.cs" />
+    <Compile Include="Configuracion\Negocio\GestorForecolor.cs" />
+    <Compile Include="Configuracion\Negocio\GestorFuente.cs" />
+    <Compile Include="DEPARTAMENTO\DATOS\DDEPARTAMENTO.cs" />
+    <Compile Include="DEPARTAMENTO\NEGOCIO\NDEPARTAMENTO.cs" />
+    <Compile Include="DEPARTAMENTO\PRESENTACION\FDEPARTAMENTO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEPARTAMENTO\PRESENTACION\FDEPARTAMENTO.Designer.cs">
+      <DependentUpon>FDEPARTAMENTO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EGRESO-INGRESO\DATOS\DEGRESO-INGRESO.cs" />
+    <Compile Include="EGRESO-INGRESO\NEGOCIO\NEGRESO-INGRESO.cs" />
+    <Compile Include="TIPOBIEN\DATOS\DTIPOBIEN.cs" />
+    <Compile Include="TIPOBIEN\NEGOCIO\NTIPOBIEN.cs" />
+    <Compile Include="TIPOBIEN\PRESENTACION\FTIPOBIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TIPOBIEN\PRESENTACION\FTIPOBIEN.Designer.cs">
+      <DependentUpon>FTIPOBIEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilidad2.cs" />
+    <Compile Include="PERFILUSUARIO\DATOS\GuardarPrivilegios.cs" />
+    <Compile Include="Empresa.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEmpresa.Designer.cs">
+      <DependentUpon>FrmEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageUtil.cs" />
+    <Compile Include="Inicio.cs" />
+    <Compile Include="Perfil de Seguridad\Datos\Grupo.cs" />
+    <Compile Include="Perfil de Seguridad\Datos\Persona.cs" />
+    <Compile Include="Perfil de Seguridad\Datos\Trabajador.cs" />
+    <Compile Include="Perfil de Seguridad\Negocio\GestorGrupo.cs" />
+    <Compile Include="Perfil de Seguridad\Negocio\GestorPersona.cs" />
+    <Compile Include="Perfil de Seguridad\Negocio\GestorTrabajador.cs" />
+    <Compile Include="Perfil de Seguridad\Presentacion\FrmGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perfil de Seguridad\Presentacion\FrmGrupo.Designer.cs">
+      <DependentUpon>FrmGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Perfil de Seguridad\Presentacion\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perfil de Seguridad\Presentacion\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PERFILUSUARIO\DATOS\CONEXIONUTIL.cs" />
+    <Compile Include="PERFILUSUARIO\DATOS\DASIGNACIONPRIVILEGIO.cs" />
+    <Compile Include="PERFILUSUARIO\DATOS\DGRUPO.cs" />
+    <Compile Include="PERFILUSUARIO\DATOS\DLOGIN.cs" />
+    <Compile Include="PERFILUSUARIO\DATOS\DUSUARIO.cs" />
+    <Compile Include="PERFILUSUARIO\DATOS\OtorgarPrivilegio.cs" />
+    <Compile Include="PERFILUSUARIO\DATOS\pruebacargarcombo.cs" />
+    <Compile Include="PERFILUSUARIO\NEGOCIO\NASIGNACIONPRIVILEGIO.cs" />
+    <Compile Include="PERFILUSUARIO\NEGOCIO\NGRUPO.cs" />
+    <Compile Include="PERFILUSUARIO\NEGOCIO\NLOGIN.cs" />
+    <Compile Include="PERFILUSUARIO\NEGOCIO\NUSUARIO.cs" />
+    <Compile Include="PERFILUSUARIO\PRESENTACION\Frm_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PERFILUSUARIO\PRESENTACION\Frm_Usuario.Designer.cs">
+      <DependentUpon>Frm_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PERFILUSUARIO\PRESENTACION\PASIGNACIONPRIVILEGIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PERFILUSUARIO\PRESENTACION\PASIGNACIONPRIVILEGIO.designer.cs">
+      <DependentUpon>PASIGNACIONPRIVILEGIO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PERFILUSUARIO\PRESENTACION\PGRUPO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PERFILUSUARIO\PRESENTACION\PGRUPO.designer.cs">
+      <DependentUpon>PGRUPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PERFILUSUARIO\PRESENTACION\PLOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PERFILUSUARIO\PRESENTACION\PLOGIN.designer.cs">
+      <DependentUpon>PLOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PERSONA\PERSONAL\DATOS\DPERSONAL.cs" />
+    <Compile Include="PERSONA\PERSONAL\NEGOCIO\NPERSONAL.cs" />
+    <Compile Include="PERSONA\PERSONAL\PRESENTACION\FPERSONAL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PERSONA\PERSONAL\PRESENTACION\FPERSONAL.designer.cs">
+      <DependentUpon>FPERSONAL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Serializacion.cs" />
+    <Compile Include="Utilidad3.cs" />
+    <Compile Include="ValidarDatos.cs" />
+    <Compile Include="VariableGlobales.cs" />
+    <EmbeddedResource Include="Bitacora\PRESENTACION\Frmbitacora.resx">
+      <DependentUpon>Frmbitacora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CARGO\PRESENTACION\FCARGO.resx">
+      <DependentUpon>FCARGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CATEGORIA\PRESENTACION\FCATEGORIA.resx">
+      <DependentUpon>FCATEGORIA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEPARTAMENTO\PRESENTACION\FDEPARTAMENTO.resx">
+      <DependentUpon>FDEPARTAMENTO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEmpresa.resx">
+      <DependentUpon>FrmEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perfil de Seguridad\Presentacion\FrmGrupo.resx">
+      <DependentUpon>FrmGrupo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perfil de Seguridad\Presentacion\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PERFILUSUARIO\PRESENTACION\Frm_Usuario.resx">
+      <DependentUpon>Frm_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PERFILUSUARIO\PRESENTACION\PASIGNACIONPRIVILEGIO.resx">
+      <DependentUpon>PASIGNACIONPRIVILEGIO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PERFILUSUARIO\PRESENTACION\PGRUPO.resx">
+      <DependentUpon>PGRUPO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PERFILUSUARIO\PRESENTACION\PLOGIN.resx">
+      <DependentUpon>PLOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PERSONA\PERSONAL\PRESENTACION\FPERSONAL.resx">
+      <DependentUpon>FPERSONAL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TIPOBIEN\PRESENTACION\FTIPOBIEN.resx">
+      <DependentUpon>FTIPOBIEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\32px-Crystal_Clear_action_apply.png" />
+    <Content Include="Resources\32px-Crystal_Clear_action_edit_add.png" />
+    <Content Include="Resources\32px-Crystal_Clear_action_gohome.png" />
+    <Content Include="Resources\32px-Crystal_Clear_action_view_right.png" />
+    <Content Include="Resources\32px-Crystal_Clear_action_window_new.png" />
+    <Content Include="Resources\32px-Crystal_Clear_app_access.png" />
+    <Content Include="Resources\32px-Crystal_Clear_app_blender.png" />
+    <Content Include="Resources\32px-Crystal_Clear_app_Community_Help.png" />
+    <Content Include="Resources\32px-Crystal_Clear_app_kwrite.png" />
+    <Content Include="Resources\32px-Crystal_Clear_app_quick_restart.png" />
+    <Content Include="Resources\32px-Crystal_Clear_app_xmag.png" />
+    <Content Include="Resources\Abrir.png" />
+    <Content Include="Resources\Buscar.png" />
+    <Content Include="Resources\Checkmark.png" />
+    <Content Include="Resources\eliminar.gif" />
+    <Content Include="Resources\Eliminar.png" />
+    <Content Include="Resources\Error_Symbol.png" />
+    <Content Include="Resources\Guardar.png" />
+    <Content Include="Resources\Imprimir.png" />
+    <Content Include="Resources\Libreta.png" />
+    <Content Include="Resources\modificar.gif" />
+    <Content Include="Resources\Modificar.png" />
+    <Content Include="Resources\Nuevo.png" />
+    <Content Include="Resources\sesion.png" />
+    <Content Include="Resources\sesion2.jpg" />
+    <Content Include="Resources\Unlock.png" />
+    <Content Include="Resources\User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="EGRESO-INGRESO\PRESENTACION\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
