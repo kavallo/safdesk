@@ -1,0 +1,155 @@
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\bin\Debug\Veterinaria.exe.config
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\bin\Debug\Veterinaria.exe
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\bin\Debug\Veterinaria.pdb
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.Properties.Resources.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.exe
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.pdb
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.Bitacora.PRESENTACION.Frmbitacora.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.Compras.Presentacion.Frm_GestionarProveedor.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.Compras.Presentacion.Frm_NotaCompraParvada.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.Form1.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.FrmEmpresa.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.FrmPrincipal.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.Perfil_de_Seguridad.Presentacion.FrmGrupo.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.Perfil_de_Seguridad.Presentacion.FrmLogin.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.Frm_Usuario.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.PASIGNACIONPRIVILEGIO.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.PGRUPO.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.PLOGIN.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.Produccion.Presentacion.Frm_Galpon.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.Produccion.Presentacion.Frm_LoteParvada.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.Produccion.Presentacion.Frm_Parvada.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.PACIENTE.MASCOTA.PRESENTACION.FMASCOTA.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.PERSONA.CLIENTE.PRECENTACION.FCLIENTE.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.PERSONA.PERSONAL.PRESENTACION.FPERSONAL.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.SERVICIOESTETICO.PRESENTACION.FSERVICOESTETICO.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos\Veterinaria\obj\Debug\Veterinaria.SERVICIOSEXTRAS.Presentacion.FSERVICIOEXTRA.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\bin\Debug\Veterinaria.exe.config
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.exe
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.pdb
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\bin\Debug\Veterinaria.exe
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\bin\Debug\Veterinaria.pdb
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.Bitacora.PRESENTACION.Frmbitacora.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.Form1.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.FrmEmpresa.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.FrmPrincipal.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.PACIENTE.MASCOTA.PRESENTACION.FMASCOTA.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.Perfil_de_Seguridad.Presentacion.FrmGrupo.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.Perfil_de_Seguridad.Presentacion.FrmLogin.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.Frm_Usuario.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.PASIGNACIONPRIVILEGIO.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.PGRUPO.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.PLOGIN.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.PERSONA.CLIENTE.PRECENTACION.FCLIENTE.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.PERSONA.PERSONAL.PRESENTACION.FPERSONAL.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.Properties.Resources.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.SERVICIOESTETICO.PRESENTACION.FSERVICOESTETICO.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.SERVICIOSEXTRAS.Presentacion.FSERVICIOEXTRA.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\veterinaria7Puntos - copia\Veterinaria\obj\Debug\Veterinaria.ATENCION.PRESENTACION.FATENCION.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\bin\Debug\Veterinaria.exe.config
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.exe
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.pdb
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\bin\Debug\Veterinaria.exe
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\bin\Debug\Veterinaria.pdb
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.ATENCION.PRESENTACION.FATENCION.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.Bitacora.PRESENTACION.Frmbitacora.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.Form1.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.FrmEmpresa.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.FrmPrincipal.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.PACIENTE.MASCOTA.PRESENTACION.FMASCOTA.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.Perfil_de_Seguridad.Presentacion.FrmGrupo.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.Perfil_de_Seguridad.Presentacion.FrmLogin.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.Frm_Usuario.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.PASIGNACIONPRIVILEGIO.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.PGRUPO.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.PLOGIN.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.PERSONA.CLIENTE.PRECENTACION.FCLIENTE.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.PERSONA.PERSONAL.PRESENTACION.FPERSONAL.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.Properties.Resources.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.SERVICIOESTETICO.PRESENTACION.FSERVICOESTETICO.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.SERVICIOSEXTRAS.Presentacion.FSERVICIOEXTRA.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3\Veterinaria\obj\Debug\Veterinaria.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3 - copia\Veterinaria\bin\Debug\Veterinaria.exe.config
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3 - copia\Veterinaria\obj\Debug\Veterinaria.exe
+C:\Users\ACER\Desktop\veterinaria7Puntos - version3 - copia\Veterinaria\obj\Debug\Veterinaria.pdb
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\bin\Debug\Veterinaria.exe.config
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.exe
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.pdb
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\bin\Debug\Veterinaria.exe
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\bin\Debug\Veterinaria.pdb
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.ATENCION.PRESENTACION.FATENCION.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.Bitacora.PRESENTACION.Frmbitacora.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.Form1.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.FrmEmpresa.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.FrmPrincipal.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PACIENTE.MASCOTA.PRESENTACION.FMASCOTA.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.Perfil_de_Seguridad.Presentacion.FrmGrupo.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.Perfil_de_Seguridad.Presentacion.FrmLogin.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.Frm_Usuario.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.PASIGNACIONPRIVILEGIO.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.PGRUPO.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.PLOGIN.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PERSONA.CLIENTE.PRECENTACION.FCLIENTE.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PERSONA.PERSONAL.PRESENTACION.FPERSONAL.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.Properties.Resources.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.SERVICIOESTETICO.PRESENTACION.FSERVICOESTETICO.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.SERVICIOSEXTRAS.Presentacion.FSERVICIOEXTRA.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.VENTAS.PRESENTACION.PPRODUCTO.resources
+C:\Users\ACER\Desktop\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.VENTAS.PRESENTACION.PVENTA.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\bin\Debug\Veterinaria.exe.config
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.exe
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.pdb
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.ATENCION.PRESENTACION.FATENCION.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.Bitacora.PRESENTACION.Frmbitacora.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.Form1.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.FrmEmpresa.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.FrmPrincipal.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PACIENTE.MASCOTA.PRESENTACION.FMASCOTA.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.Perfil_de_Seguridad.Presentacion.FrmGrupo.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.Perfil_de_Seguridad.Presentacion.FrmLogin.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.Frm_Usuario.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.PASIGNACIONPRIVILEGIO.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.PGRUPO.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.PLOGIN.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PERSONA.CLIENTE.PRECENTACION.FCLIENTE.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PERSONA.PERSONAL.PRESENTACION.FPERSONAL.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.Properties.Resources.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.SERVICIOESTETICO.PRESENTACION.FSERVICOESTETICO.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.SERVICIOSEXTRAS.Presentacion.FSERVICIOEXTRA.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.VENTAS.PRESENTACION.PPRODUCTO.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.VENTAS.PRESENTACION.PVENTA.resources
+C:\Users\ACER\Desktop\paginas ayuda\1Escritorio\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\bin\Debug\Veterinaria.exe.config
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.exe
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.pdb
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.ATENCION.PRESENTACION.FATENCION.resources
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.Bitacora.PRESENTACION.Frmbitacora.resources
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.Form1.resources
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.FrmEmpresa.resources
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.FrmPrincipal.resources
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PACIENTE.MASCOTA.PRESENTACION.FMASCOTA.resources
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.Perfil_de_Seguridad.Presentacion.FrmGrupo.resources
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.Perfil_de_Seguridad.Presentacion.FrmLogin.resources
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.Frm_Usuario.resources
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.PASIGNACIONPRIVILEGIO.resources
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.PGRUPO.resources
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PERFILUSUARIO.PRESENTACION.PLOGIN.resources
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PERSONA.CLIENTE.PRECENTACION.FCLIENTE.resources
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.PERSONA.PERSONAL.PRESENTACION.FPERSONAL.resources
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.Properties.Resources.resources
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.SERVICIOESTETICO.PRESENTACION.FSERVICOESTETICO.resources
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.SERVICIOSEXTRAS.Presentacion.FSERVICIOEXTRA.resources
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.VENTAS.PRESENTACION.PPRODUCTO.resources
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.VENTAS.PRESENTACION.PVENTA.resources
+C:\Users\ACER\Desktop\tarea redes2\veterinaria7Puntos - version4\Veterinaria\obj\Debug\Veterinaria.csproj.GenerateResource.Cache
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Veterinaria\bin\Debug\Veterinaria.exe.config
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Veterinaria\obj\Debug\Veterinaria.exe

@@ -24,6 +24,8 @@ using Sistema.TIPOBIEN.PRESENTACION;
 using Sistema.CATEGORIA.PRESENTACION;
 using Sistema.CARGO.PRESENTACION;
 using Sistema.DEPARTAMENTO.PRESENTACION;
+using Sistema.EGRESO_INGRESO.PRESENTACION;
+using Sistema.BIEN.PRESENTACION;
 
 //using System.Security.Permissions;
 //using Sistema.Backup_and_Restore.Negocio;
@@ -736,6 +738,24 @@ namespace Sistema
         private void departamentoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             FDEPARTAMENTO frm = new FDEPARTAMENTO();
+            frm.IdUsuario.Text = IDUsuarioTxt.Text;
+
+            frm.codigo = Convert.ToInt32(txtcodigo.Text);
+            frm.Show();
+        }
+
+        private void ingresoEgresoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FINGRESO_EGRESO frm = new FINGRESO_EGRESO();
+            frm.IdUsuario.Text = IDUsuarioTxt.Text;
+
+            frm.codigo = Convert.ToInt32(txtcodigo.Text);
+            frm.Show();
+        }
+
+        private void bToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FBIEN frm = new FBIEN();
             frm.IdUsuario.Text = IDUsuarioTxt.Text;
 
             frm.codigo = Convert.ToInt32(txtcodigo.Text);

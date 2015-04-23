@@ -45,6 +45,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BIEN\DATOS\DBIEN.cs" />
+    <Compile Include="BIEN\NEGOCIO\NBIEN.cs" />
+    <Compile Include="BIEN\PRESENTACION\FBIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BIEN\PRESENTACION\FBIEN.Designer.cs">
+      <DependentUpon>FBIEN.cs</DependentUpon>
+    </Compile>
     <Compile Include="Bitacora\DATOS\DBITACORA.cs" />
     <Compile Include="Bitacora\DATOS\DdetalleBitacora.cs" />
     <Compile Include="Bitacora\NEGOCIO\NBITACORA.cs" />
@@ -89,6 +97,12 @@
     </Compile>
     <Compile Include="EGRESO-INGRESO\DATOS\DEGRESO-INGRESO.cs" />
     <Compile Include="EGRESO-INGRESO\NEGOCIO\NEGRESO-INGRESO.cs" />
+    <Compile Include="EGRESO-INGRESO\PRESENTACION\FINGRESO_EGRESO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EGRESO-INGRESO\PRESENTACION\FINGRESO_EGRESO.Designer.cs">
+      <DependentUpon>FINGRESO_EGRESO.cs</DependentUpon>
+    </Compile>
     <Compile Include="TIPOBIEN\DATOS\DTIPOBIEN.cs" />
     <Compile Include="TIPOBIEN\NEGOCIO\NTIPOBIEN.cs" />
     <Compile Include="TIPOBIEN\PRESENTACION\FTIPOBIEN.cs">
@@ -187,6 +201,9 @@
     <Compile Include="Utilidad3.cs" />
     <Compile Include="ValidarDatos.cs" />
     <Compile Include="VariableGlobales.cs" />
+    <EmbeddedResource Include="BIEN\PRESENTACION\FBIEN.resx">
+      <DependentUpon>FBIEN.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Bitacora\PRESENTACION\Frmbitacora.resx">
       <DependentUpon>Frmbitacora.cs</DependentUpon>
     </EmbeddedResource>
@@ -198,6 +215,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="DEPARTAMENTO\PRESENTACION\FDEPARTAMENTO.resx">
       <DependentUpon>FDEPARTAMENTO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EGRESO-INGRESO\PRESENTACION\FINGRESO_EGRESO.resx">
+      <DependentUpon>FINGRESO_EGRESO.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -287,9 +307,7 @@
     <Content Include="Resources\Unlock.png" />
     <Content Include="Resources\User.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="EGRESO-INGRESO\PRESENTACION\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

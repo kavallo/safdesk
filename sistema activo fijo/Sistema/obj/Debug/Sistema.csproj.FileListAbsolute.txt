@@ -1,23 +1,45 @@
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\bin\Debug\Sistema.exe.config
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\bin\Debug\Sistema.exe
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\bin\Debug\Sistema.pdb
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.csprojResolveAssemblyReference.cache
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.Bitacora.PRESENTACION.Frmbitacora.resources
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.CARGO.PRESENTACION.FCARGO.resources
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.CATEGORIA.PRESENTACION.FCATEGORIA.resources
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.DEPARTAMENTO.PRESENTACION.FDEPARTAMENTO.resources
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.Form1.resources
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.FrmEmpresa.resources
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.FrmPrincipal.resources
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.Perfil_de_Seguridad.Presentacion.FrmGrupo.resources
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.Perfil_de_Seguridad.Presentacion.FrmLogin.resources
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.PERFILUSUARIO.PRESENTACION.Frm_Usuario.resources
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.PERFILUSUARIO.PRESENTACION.PASIGNACIONPRIVILEGIO.resources
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.PERFILUSUARIO.PRESENTACION.PGRUPO.resources
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.PERFILUSUARIO.PRESENTACION.PLOGIN.resources
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.PERSONA.PERSONAL.PRESENTACION.FPERSONAL.resources
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.Properties.Resources.resources
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.TIPOBIEN.PRESENTACION.FTIPOBIEN.resources
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.csproj.GenerateResource.Cache
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.exe
-C:\Users\I7\Documents\GitHub\safdesk\sistema activo fijo\Sistema\obj\Debug\Sistema.pdb
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\obj\Debug\Sistema.csprojResolveAssemblyReference.cache
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\obj\Debug\Sistema.Bitacora.PRESENTACION.Frmbitacora.resources
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\obj\Debug\Sistema.Form1.resources
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\obj\Debug\Sistema.FrmEmpresa.resources
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\obj\Debug\Sistema.FrmPrincipal.resources
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\obj\Debug\Sistema.Perfil_de_Seguridad.Presentacion.FrmGrupo.resources
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\obj\Debug\Sistema.Perfil_de_Seguridad.Presentacion.FrmLogin.resources
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\obj\Debug\Sistema.PERFILUSUARIO.PRESENTACION.Frm_Usuario.resources
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\obj\Debug\Sistema.PERFILUSUARIO.PRESENTACION.PASIGNACIONPRIVILEGIO.resources
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\obj\Debug\Sistema.PERFILUSUARIO.PRESENTACION.PGRUPO.resources
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\obj\Debug\Sistema.PERFILUSUARIO.PRESENTACION.PLOGIN.resources
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\obj\Debug\Sistema.PERSONA.CLIENTE.PRECENTACION.FCLIENTE.resources
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\obj\Debug\Sistema.PERSONA.PERSONAL.PRESENTACION.FPERSONAL.resources
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\obj\Debug\Sistema.csproj.GenerateResource.Cache
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\bin\Debug\Sistema.exe.config
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\bin\Debug\Sistema.exe
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\bin\Debug\Sistema.pdb
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\obj\Debug\Sistema.exe
+D:\sistemas2\veterinaria7Puntos - version4 - copia\Sistema\obj\Debug\Sistema.pdb
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.Bitacora.PRESENTACION.Frmbitacora.resources
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.CATEGORIA.PRESENTACION.FCATEGORIA.resources
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.Form1.resources
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.FrmEmpresa.resources
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.FrmPrincipal.resources
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.Perfil_de_Seguridad.Presentacion.FrmGrupo.resources
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.Perfil_de_Seguridad.Presentacion.FrmLogin.resources
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.PERFILUSUARIO.PRESENTACION.Frm_Usuario.resources
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.PERFILUSUARIO.PRESENTACION.PASIGNACIONPRIVILEGIO.resources
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.PERFILUSUARIO.PRESENTACION.PGRUPO.resources
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.PERFILUSUARIO.PRESENTACION.PLOGIN.resources
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.PERSONA.PERSONAL.PRESENTACION.FPERSONAL.resources
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.csproj.GenerateResource.Cache
+D:\sistemas2\sistema activo fijo\Sistema\bin\Debug\Sistema.exe.config
+D:\sistemas2\sistema activo fijo\Sistema\bin\Debug\Sistema.exe
+D:\sistemas2\sistema activo fijo\Sistema\bin\Debug\Sistema.pdb
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.exe
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.pdb
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.csprojResolveAssemblyReference.cache
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.TIPOBIEN.PRESENTACION.FTIPOBIEN.resources
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.CARGO.PRESENTACION.FCARGO.resources
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.DEPARTAMENTO.PRESENTACION.FDEPARTAMENTO.resources
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.EGRESO_INGRESO.PRESENTACION.FINGRESO_EGRESO.resources
+D:\sistemas2\sistema activo fijo\Sistema\obj\Debug\Sistema.BIEN.PRESENTACION.FBIEN.resources

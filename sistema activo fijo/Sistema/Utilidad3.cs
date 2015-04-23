@@ -384,9 +384,9 @@ namespace Sistema
                 commandPAForecolorMostrar.ExecuteNonQuery();
 
 
-                commandPAgrupoactu.ExecuteNonQuery();
-                commandPAgrupobuscar.ExecuteNonQuery();
-                commandPAgrupoMostrar.ExecuteNonQuery();
+                //commandPAgrupoactu.ExecuteNonQuery();
+                //commandPAgrupobuscar.ExecuteNonQuery();
+                //commandPAgrupoMostrar.ExecuteNonQuery();
 
             }
             catch (System.Exception ex)

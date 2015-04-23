@@ -7,17 +7,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Sistema.BIEN.NEGOCIO;
 using Sistema.Bitacora.NEGOCIO;
 using Sistema.Configuracion.Negocio;
-using Sistema.EGRESO_INGRESO.NEGOCIO;
 using Sistema.PERFILUSUARIO.DATOS;
 
-namespace Sistema.EGRESO_INGRESO.PRESENTACION
+
+namespace Sistema.BIEN.PRESENTACION
 {
-    public partial class FINGRESO_EGRESO : Form
+    public partial class FBIEN : Form
     {
 
-        private NEGRESO_INGRESO ing;
+        private NBIEN bien;
 
         public int codigo;
 
@@ -26,7 +27,7 @@ namespace Sistema.EGRESO_INGRESO.PRESENTACION
         private NDetalleBitacora ndb;
 
         string CADENA = VariableGlobales.CADENA;
-        public FINGRESO_EGRESO()
+        public FBIEN()
         {
             InitializeComponent();
 
@@ -52,22 +53,14 @@ namespace Sistema.EGRESO_INGRESO.PRESENTACION
             try
             {
 
-                if (radioButton1.Checked)
-                {
-                    string tipo = maskedTextBox4.Text;
-                    ing.Insertar_Ingreso(tipo);
 
-                    dataGridView1.DataSource = ing.MostrarIngreso();
-                }
-                else if (radioButton2.Checked)
-                {
-                    string tipo = maskedTextBox4.Text;
-                    ing.Insertar_Egreso(tipo);
+                string nombre = maskedTextBox3.Text;
+                float preciocompra = float.Parse(maskedTextBox4.Text);
+                int idingreso = int.Parse(maskedTextBox5.Text);
+                int idtipobien = int.Parse(maskedTextBox6.Text);
 
-                    dataGridView1.DataSource = ing.MostrarIngreso();
-                }
-                
-                
+                bien.Insertar_Bien(nombre, preciocompra, idingreso, idtipobien);
+                dataGridView1.DataSource = bien.MostrarBien();
 
 
             }
@@ -78,8 +71,9 @@ namespace Sistema.EGRESO_INGRESO.PRESENTACION
             }
         }
 
-        private void FINGRESO_EGRESO_Load(object sender, EventArgs e)
+        private void FBIEN_Load(object sender, EventArgs e)
         {
+
             DataTable dt = new DataTable();
             DataGrid grid = new DataGrid();
             DataRow dr = dt.NewRow();
@@ -287,8 +281,8 @@ namespace Sistema.EGRESO_INGRESO.PRESENTACION
 
 
             //cliente = new NCLIENTE(CADENA);
-            ing = new NEGRESO_INGRESO(empresa.String_Connection);
-            dataGridView1.DataSource = ing.MostrarIngreso();
+            bien = new NBIEN(empresa.String_Connection);
+            dataGridView1.DataSource = bien.MostrarBien();
 
             cargarbotones();
             //OtorgarPrivilegio ot = new OtorgarPrivilegio(CADENA);

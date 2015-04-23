@@ -1,0 +1,153 @@
+C:\Users\GUERY CHUMACERO\AppData\Local\Temporary Projects\Avicola\bin\Debug\Avicola.exe.config
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\bin\Debug\Avicola.exe.config
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Debug\Avicola.csprojResolveAssemblyReference.cache
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Debug\Avicola.Form1.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Debug\Avicola.FrmEmpresa.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Debug\Avicola.Perfil_de_Seguridad.Presentacion.FrmGrupo.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Debug\Avicola.Perfil_de_Seguridad.Presentacion.FrmLogin.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Debug\Avicola.Properties.Resources.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Debug\Avicola.csproj.GenerateResource.Cache
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\bin\Debug\Avicola.exe
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\bin\Debug\Avicola.pdb
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Debug\Avicola.exe
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Debug\Avicola.pdb
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Debug\Avicola.FrmPrincipal.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Debug\Avicola.Compras.Presentacion.Frm_GestionarProveedor.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Debug\Avicola.Compras.Presentacion.Frm_NotaCompraParvada.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_Galpon.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_LoteParvada.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_Parvada.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\bin\Debug\Avicola.exe.config
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\obj\Debug\Avicola.exe
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\obj\Debug\Avicola.pdb
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\obj\Debug\Avicola.csprojResolveAssemblyReference.cache
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\obj\Debug\Avicola.Compras.Presentacion.Frm_GestionarProveedor.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\obj\Debug\Avicola.Compras.Presentacion.Frm_NotaCompraParvada.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\obj\Debug\Avicola.Form1.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\obj\Debug\Avicola.FrmEmpresa.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\obj\Debug\Avicola.FrmPrincipal.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\obj\Debug\Avicola.Perfil_de_Seguridad.Presentacion.FrmGrupo.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\obj\Debug\Avicola.Perfil_de_Seguridad.Presentacion.FrmLogin.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_Galpon.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_LoteParvada.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_Parvada.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\obj\Debug\Avicola.Properties.Resources.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\obj\Debug\Avicola.csproj.GenerateResource.Cache
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.PASIGNACIONPRIVILEGIO.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.PLOGIN.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\bin\Debug\Avicola.exe
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\bin\Debug\Avicola.pdb
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola - copia\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.PGRUPO.resources
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\bin\Debug\Avicola.exe.config
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\obj\Debug\Avicola.exe
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\obj\Debug\Avicola.pdb
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\bin\Debug\Avicola.exe
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\bin\Debug\Avicola.pdb
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\obj\Debug\Avicola.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\obj\Debug\Avicola.Compras.Presentacion.Frm_GestionarProveedor.resources
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\obj\Debug\Avicola.Compras.Presentacion.Frm_NotaCompraParvada.resources
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\obj\Debug\Avicola.Form1.resources
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\obj\Debug\Avicola.FrmEmpresa.resources
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\obj\Debug\Avicola.FrmPrincipal.resources
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\obj\Debug\Avicola.Perfil_de_Seguridad.Presentacion.FrmGrupo.resources
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\obj\Debug\Avicola.Perfil_de_Seguridad.Presentacion.FrmLogin.resources
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.PASIGNACIONPRIVILEGIO.resources
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.PGRUPO.resources
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.PLOGIN.resources
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_Galpon.resources
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_LoteParvada.resources
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_Parvada.resources
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\obj\Debug\Avicola.Properties.Resources.resources
+C:\Users\ACER\Desktop\Avicola 12-05-2014\Avicola\obj\Debug\Avicola.csproj.GenerateResource.Cache
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\bin\Debug\Avicola.exe.config
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.exe
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.pdb
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\bin\Debug\Avicola.exe
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\bin\Debug\Avicola.pdb
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.csprojResolveAssemblyReference.cache
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.Compras.Presentacion.Frm_GestionarProveedor.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.Compras.Presentacion.Frm_NotaCompraParvada.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.Form1.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.FrmEmpresa.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.FrmPrincipal.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.Perfil_de_Seguridad.Presentacion.FrmGrupo.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.Perfil_de_Seguridad.Presentacion.FrmLogin.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.PASIGNACIONPRIVILEGIO.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.PGRUPO.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.PLOGIN.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_Galpon.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_LoteParvada.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_Parvada.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.Properties.Resources.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.csproj.GenerateResource.Cache
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.Frm_Usuario.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola 13-05-2014\Avicola\obj\Debug\Avicola.Bitacora.PRESENTACION.Frmbitacora.resources
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\bin\Debug\Avicola.exe.config
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.exe
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.pdb
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\bin\Debug\Avicola.exe
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\bin\Debug\Avicola.pdb
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.Bitacora.PRESENTACION.Frmbitacora.resources
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.Compras.Presentacion.Frm_GestionarProveedor.resources
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.Compras.Presentacion.Frm_NotaCompraParvada.resources
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.Form1.resources
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.FrmEmpresa.resources
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.FrmPrincipal.resources
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.Perfil_de_Seguridad.Presentacion.FrmGrupo.resources
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.Perfil_de_Seguridad.Presentacion.FrmLogin.resources
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.Frm_Usuario.resources
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.PASIGNACIONPRIVILEGIO.resources
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.PGRUPO.resources
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.PLOGIN.resources
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_Galpon.resources
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_LoteParvada.resources
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_Parvada.resources
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.Properties.Resources.resources
+C:\Users\ACER\Desktop\Avicola 14-05-2014\Avicola\obj\Debug\Avicola.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\bin\Debug\Avicola.exe.config
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.exe
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.pdb
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\bin\Debug\Avicola.exe
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\bin\Debug\Avicola.pdb
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Bitacora.PRESENTACION.Frmbitacora.resources
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Compras.Presentacion.Frm_GestionarProveedor.resources
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Compras.Presentacion.Frm_NotaCompraParvada.resources
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Form1.resources
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.FrmEmpresa.resources
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.FrmPrincipal.resources
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Perfil_de_Seguridad.Presentacion.FrmGrupo.resources
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Perfil_de_Seguridad.Presentacion.FrmLogin.resources
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.Frm_Usuario.resources
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.PASIGNACIONPRIVILEGIO.resources
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.PGRUPO.resources
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.PLOGIN.resources
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_Galpon.resources
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_LoteParvada.resources
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_Parvada.resources
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Properties.Resources.resources
+C:\Users\ACER\Desktop\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\bin\Debug\Avicola.exe.config
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.exe
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.pdb
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\bin\Debug\Avicola.exe
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\bin\Debug\Avicola.pdb
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Bitacora.PRESENTACION.Frmbitacora.resources
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Compras.Presentacion.Frm_GestionarProveedor.resources
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Compras.Presentacion.Frm_NotaCompraParvada.resources
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Form1.resources
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.FrmEmpresa.resources
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.FrmPrincipal.resources
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Perfil_de_Seguridad.Presentacion.FrmGrupo.resources
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Perfil_de_Seguridad.Presentacion.FrmLogin.resources
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.Frm_Usuario.resources
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.PASIGNACIONPRIVILEGIO.resources
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.PGRUPO.resources
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.PERFILUSUARIO.PRESENTACION.PLOGIN.resources
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_Galpon.resources
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_LoteParvada.resources
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Produccion.Presentacion.Frm_Parvada.resources
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.Properties.Resources.resources
+C:\Users\ACER\Desktop\2-2014\sistemaavicola\Avicola 15-05-2014-fidel\Avicola\obj\Debug\Avicola.csproj.GenerateResource.Cache

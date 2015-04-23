@@ -1,0 +1,7 @@
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Release\Avicola.Form1.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Release\Avicola.FrmEmpresa.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Release\Avicola.FrmPrincipal.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Release\Avicola.Perfil_de_Seguridad.Presentacion.FrmGrupo.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Release\Avicola.Perfil_de_Seguridad.Presentacion.FrmLogin.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Release\Avicola.Properties.Resources.resources
+C:\Users\GUERY CHUMACERO\Documents\Visual Studio 2012\Projects\Avicola\Avicola\obj\Release\Avicola.csproj.GenerateResource.Cache
